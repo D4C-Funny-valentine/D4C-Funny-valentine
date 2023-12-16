@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=D4C-Funny-valentine&theme=" alt="D4C-Funny-valentine" /></a> </p>
 
 - 👯 I’m looking to collaborate on [Tee space](https://tee-space.vercel.app/)
-- 🤝 I’m looking for help with **MP Project**
+- 🤝 I’m working on **Blog Project**
 - 🌱 I’m currently learning **React Native**
 - 💬 Ask me about **React**
 - 📫 How to reach me **kyawn5194@gmail.com**
